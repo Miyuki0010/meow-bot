@@ -13,6 +13,6 @@ npm install axion
 ## additonal node
 tried to improve the code so it runs more ressource efficent, but still not sure about that.
 
-#Usage
+# Usage
 install every requierment, then clone the repository, get everything out of the zip file and then with node index.js it will start. but i recommend using a process manager to not restart always the script.
 Feel free to change stuff and also improve it.
