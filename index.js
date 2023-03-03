@@ -25,7 +25,7 @@ async function postMeow(){
     const rndIndex = Math.floor(Math.random() * meows.length);
     const rndMeow = meows[rndIndex];
 
-    await axios.post('https://botsin.space/api/v1/statuses', {
+    await axios.post('https://YOUR-INSTANCE-HERE/api/v1/statuses', {
         status: rndMeow,
         visibility: 'public'
     },{
