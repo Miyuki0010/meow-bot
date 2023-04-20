@@ -19,7 +19,8 @@ async function postMeow(){
         'yowl',
         'growl', 
         'snarl', 
-        'chirp'
+        'chirp',
+	    'MIAU!'
     ];
 
     const rndIndex = Math.floor(Math.random() * meows.length);
